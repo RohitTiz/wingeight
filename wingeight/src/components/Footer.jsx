@@ -59,7 +59,7 @@ const Footer = () => {
           <a href="#" className="block mb-2 text-[#ccc] no-underline text-[13px]">About</a>
           <a href="#" className="block mb-2 text-[#ccc] no-underline text-[13px]">Press</a>
           <a href="#" className="block mb-2 text-[#ccc] no-underline text-[13px]">Events</a>
-          <a href="#" className="block mb-2 text-[#ccc] no-underline text-[13px]">Request Demo →</a>
+          <a href="#" className="block mb-2 text-[#ccc] no-underline text-[13px]">Request Demoooo →</a>
         </div>
       </div>
 
